@@ -642,9 +642,6 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -871,7 +868,7 @@ body {
 .cid-rqI5y83DaF {
   padding-top: 160px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/link-14-1366x760.jpg");
+  background-image: url("../../../assets/images/link-05-1366x760.jpg");
 }
 .cid-rqI5y83DaF .media-content .btn-bgr {
   z-index: 0;
